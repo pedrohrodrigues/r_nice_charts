@@ -1,0 +1,150 @@
+/*!
+  Author: Pedro
+  Version: 1
+  License: GNU General Public License v2 or later
+  License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size:12px;
+	margin:0;
+	padding:0;
+}
+
+
+.r_nice_container_horizontal_chart
+{
+		width:600px; /* Tamanho qualquer somenta para testar - remover depois*/
+}
+
+.r_nice_horizontal_chart
+{
+	font-weight:bold;
+	padding:0;
+	margin:0 0 0 10px;
+}
+
+.r_nice_center
+{
+	margin:0 auto;
+}
+
+.r_nice_horizontal_chart_title
+{
+	margin:0 0 0 10px;
+}
+
+.r_nice_horizontal_chart li
+{
+	display:flex;
+	height:50px;
+	justify-content: space-between;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+.r_nice_horizontal_chart .r_nice_horizontal_chart_item
+{
+	align-items:center;
+	display:flex;
+	height:50px;
+	width:25%;
+}
+
+.r_nice_percentage {
+  align-items:center;
+  background: repeating-linear-gradient(
+    to right,
+    #ddd,
+    #ddd 1px,
+    #fff 1px,
+    #fff 5%
+  );
+  display:flex;
+  width:71%;
+  height:100%;
+}
+
+.rc_nice_color_one
+{
+	color: #39cccc; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_color_two
+{
+	color: #440CE8; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_color_three
+{
+	color: #FF0000; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_color_four
+{
+	color: #E89C0C; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_color_four
+{
+	color: #8EFF0D; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_background_one
+{
+	background-color: #39cccc; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_background_two
+{
+	background-color: #440CE8; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_background_three
+{
+	background-color: #FF0000; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_background_four
+{
+	background-color: #E89C0C; /* cor imaginario colcoar javascript depois */
+}
+
+.rc_nice_background_five
+{
+	background-color: #8EFF0D;/* cor imaginario colcoar javascript depois */
+}
+
+
+.r_nice_percentage span
+{
+	display:block;
+	height:90%;
+}
+
+.r_nice_percentage .r_nice_percentage-44
+{
+	width:44%; /* tamanho imaginario colcoar javascript depois */	
+}
+
+.r_nice_percentage .r_nice_percentage-20
+{
+	width:20%; /* tamanho imaginario colcoar javascript depois */	
+}
+
+.r_nice_percentage .r_nice_percentage-16
+{
+	width:16%; /* tamanho imaginario colcoar javascript depois */	
+}
+
+.r_nice_percentage .r_nice_percentage-12
+{
+	width:12%; /* tamanho imaginario colcoar javascript depois */	
+}
+
+.r_nice_percentage .r_nice_percentage-8
+{
+	width:8%; /* tamanho imaginario colcoar javascript depois */	
+}
