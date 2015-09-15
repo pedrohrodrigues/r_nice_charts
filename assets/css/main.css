@@ -15,6 +15,7 @@ body{
 
 .r_nice_container_horizontal_chart
 {
+		margin-top:10px;
 		width:600px; /* Tamanho qualquer somenta para testar - remover depois*/
 }
 
@@ -87,7 +88,7 @@ body{
 	color: #E89C0C; /* cor imaginario colcoar javascript depois */
 }
 
-.rc_nice_color_four
+.rc_nice_color_five
 {
 	color: #8EFF0D; /* cor imaginario colcoar javascript depois */
 }
